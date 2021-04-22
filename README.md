@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+THIS IS A REACT PROJET, I FOLLOWED A TUTORIAL ON OpenClassroom, I'M LEARNING USING REACT SO HERE A SIMPLE FLOWER SHOP WEBPAGE , with some useEffect, useState, and data from a json file !
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
